@@ -20,7 +20,7 @@ JavaDoc
  	* <h1>Implementing JavaDoc to text analyzer program</h1>
  	* This program will read a file and output statistic about the file. Output the
  	* most word frequencies of all words in the file and sorted the most frequently
- 	* used word. Display set of pair and how many time it occurred in the file.
+ 	* used word. Display set of pair and how many time it occurred in the file.</h1>
 	 * 
  	* @author Luc Nguyen
  	* @version 2.0
