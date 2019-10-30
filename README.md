@@ -17,11 +17,11 @@ JavaDoc
 	import java.util.Set;
 
 	/**
- 	* Date October 29, 2019 
-	* This application is output text analyzer to HTML by implementing JavaDoc.
+ 	* Date:	October 29, 2019 
+	* Execution:  Implementing JavaDoc to text analyzer and display it to html.
+	* Data files: http://shakespeare.mit.edu/macbeth/full.html
  	* @author Luc Nguyen
  	* @version 1.0
-	* 
 	*
 	* This program will read a file and output statistic about the file. Output the most word frequencies of all words in
 	* the file and sorted the most frequently used word. Display set of pair and how many time it occurred in the file. 
